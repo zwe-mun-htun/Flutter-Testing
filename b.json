@@ -1,0 +1,168 @@
+{
+    "plus_code": {
+        "compound_code": "VJM8+MC Hpa-An, Myanmar (Burma)",
+        "global_code": "7M8VVJM8+MC"
+    },
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Hpa-An",
+                    "short_name": "Hpa-An",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Kayin State",
+                    "short_name": "Kayin State",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Myanmar (Burma)",
+                    "short_name": "MM",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Hpa-An, Myanmar (Burma)",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 19.4523135,
+                        "lng": 98.3619691
+                    },
+                    "southwest": {
+                        "lat": 16.5387975,
+                        "lng": 96.4393616
+                    }
+                },
+                "location": {
+                    "lat": 16.9459346,
+                    "lng": 97.9592863
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.4523135,
+                        "lng": 98.3619691
+                    },
+                    "southwest": {
+                        "lat": 16.5387975,
+                        "lng": 96.4393616
+                    }
+                }
+            },
+            "place_id": "ChIJSyzwqS6fxDAR6m5lo3OUX54",
+            "types": [
+                "administrative_area_level_2",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Kayin State",
+                    "short_name": "Kayin State",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Myanmar (Burma)",
+                    "short_name": "MM",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Kayin State, Myanmar (Burma)",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 19.4953029,
+                        "lng": 98.931809
+                    },
+                    "southwest": {
+                        "lat": 15.220098,
+                        "lng": 96.39982189999999
+                    }
+                },
+                "location": {
+                    "lat": 16.9459346,
+                    "lng": 97.9592863
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 19.4953029,
+                        "lng": 98.931809
+                    },
+                    "southwest": {
+                        "lat": 15.220098,
+                        "lng": 96.39982189999999
+                    }
+                }
+            },
+            "place_id": "ChIJhcpNh9SvwjARnCFPG1AZvFE",
+            "types": [
+                "administrative_area_level_1",
+                "political"
+            ]
+        },
+        {
+            "address_components": [
+                {
+                    "long_name": "Myanmar (Burma)",
+                    "short_name": "MM",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                }
+            ],
+            "formatted_address": "Myanmar (Burma)",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": 28.5478351,
+                        "lng": 101.1702717
+                    },
+                    "southwest": {
+                        "lat": 9.4518,
+                        "lng": 92.171808
+                    }
+                },
+                "location": {
+                    "lat": 21.916221,
+                    "lng": 95.955974
+                },
+                "location_type": "APPROXIMATE",
+                "viewport": {
+                    "northeast": {
+                        "lat": 28.5478351,
+                        "lng": 101.1702717
+                    },
+                    "southwest": {
+                        "lat": 9.4518,
+                        "lng": 92.171808
+                    }
+                }
+            },
+            "place_id": "ChIJBylOcadSVjAREStiHOQOe7o",
+            "types": [
+                "country",
+                "political"
+            ]
+        }
+    ],
+    "status": "OK"
+}}
